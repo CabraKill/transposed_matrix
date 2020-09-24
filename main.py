@@ -2,7 +2,7 @@ from src.controllers.read_input import Inputs
 
 
 def main():
-    print("Bem vindo")
+    print("     ------------Transposed Matrix------------     \n")
     inputs = Inputs()
     while(True):
         try:
